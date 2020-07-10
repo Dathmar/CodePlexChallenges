@@ -3,3 +3,4 @@
 /venv/Scripts/
 /.idea/
 /venv/pyvenv.cfg
+/venv/.gitignore
